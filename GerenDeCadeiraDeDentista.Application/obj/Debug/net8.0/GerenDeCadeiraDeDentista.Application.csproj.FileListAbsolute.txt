@@ -1,0 +1,15 @@
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\bin\Debug\net8.0\GerenDeCadeiraDeDentista.Application.deps.json
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\bin\Debug\net8.0\GerenDeCadeiraDeDentista.Application.dll
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\bin\Debug\net8.0\GerenDeCadeiraDeDentista.Application.pdb
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\bin\Debug\net8.0\GerenDeCadeiraDeDentista.Domain.dll
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\bin\Debug\net8.0\GerenDeCadeiraDeDentista.Domain.pdb
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeCadeiraDeDentista.Application.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeCadeiraDeDentista.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeCadeiraDeDentista.Application.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeCadeiraDeDentista.Application.AssemblyInfo.cs
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeCadeiraDeDentista.Application.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeC.5B0D82F4.Up2Date
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeCadeiraDeDentista.Application.dll
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\refint\GerenDeCadeiraDeDentista.Application.dll
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\GerenDeCadeiraDeDentista.Application.pdb
+C:\Users\Filipe\Documents\CrudGerenciamentoDeCadeiraDeDentista\GerenDeCadeiraDeDentista.Application\obj\Debug\net8.0\ref\GerenDeCadeiraDeDentista.Application.dll

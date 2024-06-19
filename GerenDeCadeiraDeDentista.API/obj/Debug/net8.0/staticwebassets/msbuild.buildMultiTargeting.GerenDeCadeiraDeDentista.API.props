@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GerenDeCadeiraDeDentista.API.props" />
+</Project>
